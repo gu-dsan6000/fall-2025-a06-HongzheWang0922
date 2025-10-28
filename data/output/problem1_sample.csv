@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/08 13:33:51 INFO storage.BlockManagerMaster: Trying to register BlockManager,INFO
+"17/06/08 13:33:58 INFO storage.MemoryStore: Block rdd_2_6 stored as bytes in memory (estimated size 682.0 B, free 324.8 KB)",INFO
+17/06/08 13:33:59 INFO executor.Executor: Finished task 33.0 in stage 0.0 (TID 33). 2703 bytes result sent to driver,INFO
+17/06/08 13:33:59 INFO storage.BlockManager: Found block rdd_2_34 locally,INFO
+17/06/08 13:34:00 INFO executor.Executor: Running task 21.0 in stage 2.0 (TID 101),INFO
+17/06/08 13:34:00 INFO storage.BlockManager: Found block rdd_2_38 locally,INFO
+17/06/08 13:34:00 INFO executor.Executor: Running task 15.0 in stage 3.0 (TID 135),INFO
+17/06/08 13:34:00 INFO executor.Executor: Finished task 16.0 in stage 3.0 (TID 136). 2113 bytes result sent to driver,INFO
+17/06/08 13:34:00 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 141,INFO
+17/06/08 13:34:00 INFO executor.Executor: Running task 33.0 in stage 3.0 (TID 153),INFO

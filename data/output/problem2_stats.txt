@@ -1,0 +1,19 @@
+============================================================
+PROBLEM 2: CLUSTER USAGE ANALYSIS SUMMARY
+============================================================
+
+Total unique clusters: 6
+Total applications analyzed: 194
+Most active cluster: 1485248649253
+Applications on most active cluster: 181
+
+Top 10 Clusters by Application Count:
+------------------------------------------------------------
+  Cluster 1485248649253: 181 applications
+  Cluster 1472621869829: 8 applications
+  Cluster 1448006111297: 2 applications
+  Cluster 1474351042505: 1 applications
+  Cluster 1440487435730: 1 applications
+  Cluster 1460011102909: 1 applications
+
+============================================================
